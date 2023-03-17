@@ -17,15 +17,11 @@ Olá, me chamo Rodrigo, sou de Salvador, Brasil e atualmente estudante de desenv
 
 <h3>🛠 Tech Stack</h3>
 
-
-
-- 💻 &nbsp; Python | Java | C++ | C | MySQL
-
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS
+- 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS 
 
 <!--
 
-- 🛢 &nbsp; MySQL | MongoDB
+- 🛢 &nbsp; 
 
 - 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
 
@@ -37,7 +33,7 @@ Olá, me chamo Rodrigo, sou de Salvador, Brasil e atualmente estudante de desenv
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; AWS | Docker🐳 | Firebase | flask
+- 🔧 &nbsp; AWS | Docker🐳 | MySQL | MongoDB |
 
 <hr>
 
