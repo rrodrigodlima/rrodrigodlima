@@ -11,7 +11,7 @@ Hello, my name is Rodrigo, im from Salvador, Brazil and actualy studying Web Dev
 
 - 🌱 &nbsp; Learning about Docker and Back-end estructures.
 
-- ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
+- ✍️ &nbsp; Pursuing Web Development Full Stack.
 
 
 <h3>🛠 Tech Stack</h3>
