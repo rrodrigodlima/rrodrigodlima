@@ -1,5 +1,5 @@
 ### Hi there 👋
-Olá, me chamo Rodrigo, sou de Salvador, Brasil e atualmente estudante de desenvolvimento web na Trybe 🚀.
+Hello, my name is Rodrigo, im from Salvador, Brazil and actualy studying Web Development at Trybe 🚀.
 
 <h3> 👨🏻•💻 About Me </h3>
 
