@@ -7,28 +7,16 @@ Olá, me chamo Rodrigo, sou de Salvador, Brasil e atualmente estudante de desenv
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
-- 🎓 &nbsp; Studying Computer Science and Engineering at IIIT Vadodara and coding stuffs.
+- 🎓 &nbsp; Studying Back-end and databases at Trybe and coding stuffs.
 
-- 🌱 &nbsp; Learning about Cloud Tech, Systems Design.
+- 🌱 &nbsp; Learning about Docker and Back-end estructures.
 
 - ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
-
 
 
 <h3>🛠 Tech Stack</h3>
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS 
-
-<!--
-
-- 🛢 &nbsp; 
-
-- 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
-
-- 🖥 &nbsp; Illustrator| Photoshop | InDesign
-
--->
-
 
 
 <h3>🛠 To Learn</h3>
