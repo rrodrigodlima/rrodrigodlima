@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/rrodrigodlima/github-readme-stats)
+[![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rrodrigodlima)](https://github.com/rrodrigodlima/github-readme-stats)
 
 
 <!--
