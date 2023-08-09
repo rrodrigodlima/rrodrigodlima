@@ -16,12 +16,12 @@ Hello, my name is Rodrigo, im from Salvador, Brazil and actualy studying Web Dev
 
 <h3>🛠 Tech Stack</h3>
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS 
+- 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS | Docker🐳 | MySQL | Node.JS | TypeScript | SOLID | POO
 
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; AWS | Docker🐳 | MySQL | MongoDB | Node.JS | TypeScript | SOLID | POO
+- 🔧 &nbsp; PYTHON | JAVA
 
 <hr>
 
