@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hello, my name is Rodrigo, im from Salvador, Brazil and actualy studying Web Development at Trybe 🚀.
+Hello, my name is Rodrigo, im from Salvador, Brazil. Web Developer Fullstack 🚀.
 
 <h3> 👨🏻•💻 About Me </h3>
 
@@ -7,21 +7,9 @@ Hello, my name is Rodrigo, im from Salvador, Brazil and actualy studying Web Dev
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
-- 🎓 &nbsp; Studying Back-end and databases at Trybe and coding stuffs.
-
-- 🌱 &nbsp; Learning about Docker and Back-end estructures.
-
-- ✍️ &nbsp; Pursuing Web Development Full Stack.
-
-
 <h3>🛠 Tech Stack</h3>
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS | Docker🐳 | MySQL | Node.JS | TypeScript | SOLID | POO
-
-
-<h3>🛠 To Learn</h3>
-
-- 🔧 &nbsp; PYTHON | JAVA
+- 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS | Docker🐳 | MySQL | Node.JS | TypeScript | C# | PYTHON 
 
 <hr>
 
