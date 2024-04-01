@@ -16,8 +16,6 @@ Hello, my name is Rodrigo, im from Salvador, Brazil. Web Developer Fullstack ðŸš
 
 
 <br/><br/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rrodrigodlima&show_icons=true&theme=radical&count_private=true)
-
 
 
 
