@@ -1,23 +1,16 @@
-### Hi there 👋
-Hello, my name is Rodrigo, im from Salvador, Brazil. Web Developer Fullstack 🚀.
+# Welcome to My GitHub Profile! 👋
 
-<h3> 👨🏻•💻 About Me </h3>
+Hey there, I'm Rodrigo, a Fullstack Web Developer from sunny Salvador, Brazil.
 
+## About Me
+I love diving into new technologies and crafting software solutions that make an impact. From quick hacks to full-scale projects, I'm always eager to explore and innovate.
 
-
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-
-<h3>🛠 Tech Stack</h3>
-
-- 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS | Docker🐳 | MySQL | Node.JS | TypeScript | C# | PYTHON 
-
-<hr>
-
-
-
-<br/><br/>
-
-
+## Tech Stack
+Here's what I work with:
+- Frontend: HTML, CSS, JavaScript, ReactJS
+- Backend: Node.js, TypeScript, C#, Python
+- Databases: MySQL
+- Tools: Docker 🐳
 
 <!--
 **rrodrigodlima/rrodrigodlima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
