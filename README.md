@@ -10,7 +10,7 @@ Here's what I work with:
 - Frontend: HTML, CSS, JavaScript, ReactJS
 - Backend: Node.js, TypeScript, C#, Python
 - Databases: MySQL
-- Tools: Docker 🐳
+- Tools: AWS, Docker 🐳
 
 <!--
 **rrodrigodlima/rrodrigodlima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
