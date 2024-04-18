@@ -12,7 +12,7 @@ Here's what I work with:
 - Databases: MySQL
 - Tools: AWS, Docker 🐳
 
-## Entre em contato
+## Contact
 - Email: [rdrigo019@gmail.com]
 - Linkedin : [https://www.linkedin.com/in/ruan-lima-dev/]
   
