@@ -12,6 +12,10 @@ Here's what I work with:
 - Databases: MySQL
 - Tools: AWS, Docker 🐳
 
+## Entre em contato
+- Email: [rdrigo019@gmail.com]
+- Linkedin : [https://www.linkedin.com/in/ruan-lima-dev/]
+  
 <!--
 **rrodrigodlima/rrodrigodlima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
